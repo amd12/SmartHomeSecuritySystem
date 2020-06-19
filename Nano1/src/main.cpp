@@ -406,7 +406,7 @@ void WebFire(){
     delay(10);
     WebUnarmed();
     for(int i = 0 ;i<1;i++){
-      sendSMS("+375291341050", "Fire");
+      sendSMS("", "Fire");
     }
     }
   }
@@ -423,7 +423,7 @@ void WebFire(){
     delay(10);
     WebUnarmed();
     for(int i = 0 ;i<1;i++){
-     sendSMS("+375291341050","Attact");
+     sendSMS("","Attact");
     }
     }
   }
