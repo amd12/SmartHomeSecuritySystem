@@ -1,0 +1,3 @@
+Код для Arduino Nano со всеми библиотеками в папке Nano 1 , Код для ESP-12e с библиотеками в папке Test4, Программа была разработана в среде Microsoft Studio Visual Code
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Code for Arduino Nano with all the libraries in the Nano 1 folder, Code for ESP-12e with the libraries in the Test4 folder, The program was developed in Microsoft Studio Visual Code
